@@ -42,7 +42,6 @@
 	width: 100%;
 }
 
-
 .row:after {
     content: "";
     display: table;
